@@ -1,6 +1,6 @@
 import { Spinner } from './Loading.styles';
 
-const Loading = (): JSX.Element => {
+const Loading = () => {
   return <Spinner />;
 };
 

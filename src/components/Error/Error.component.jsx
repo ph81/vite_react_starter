@@ -1,4 +1,4 @@
-const Error = (): JSX.Element => {
+const Error = () => {
   return (
     <>
       <h2>Error getting data</h2>
