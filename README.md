@@ -1,1 +1,1 @@
-React Starter: Vite + Typescript
+React Starter: Vite 
